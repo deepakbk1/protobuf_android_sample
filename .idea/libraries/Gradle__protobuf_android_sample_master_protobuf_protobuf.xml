@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: protobuf_android_sample-master-protobuf.protobuf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/protobuf/build/libs/protobuf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProtobufTest.iml" filepath="$PROJECT_DIR$/ProtobufTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protobuf/protobuf.iml" filepath="$PROJECT_DIR$/protobuf/protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protobuf_android_sample-master.iml" filepath="$PROJECT_DIR$/protobuf_android_sample-master.iml" group="protobuf_android_sample-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/protobuf_android_sample-master-app.iml" filepath="$PROJECT_DIR$/app/protobuf_android_sample-master-app.iml" group="protobuf_android_sample-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/protobuf/protobuf_android_sample-master-protobuf.iml" filepath="$PROJECT_DIR$/protobuf/protobuf_android_sample-master-protobuf.iml" group="protobuf_android_sample-master/protobuf" />
+    </modules>
+  </component>
+</project>
